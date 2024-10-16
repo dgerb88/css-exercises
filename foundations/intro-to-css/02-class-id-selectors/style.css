@@ -1,0 +1,22 @@
+.odd, .oddToo {
+    color: black;
+    background-color: #e697a3;
+    font-size: large;
+    font-family: "Verdana", "DejaVu Sans", sans-serif ;
+}
+
+.oddToo {
+    font-size: 24px;
+}
+
+#one {
+    background-color: white;
+    color: blue;
+    font-size: 36px;
+}
+
+#oneOther {
+    background-color: lightgreen;
+    color: black;
+    font-weight: bold;
+}
